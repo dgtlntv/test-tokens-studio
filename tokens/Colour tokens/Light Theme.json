@@ -1,0 +1,626 @@
+{
+  "colour": {
+    "text": {
+      "text-default": {
+        "value": "{colour.bw.black}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "text-muted": {
+        "value": "{colour.gray.30}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "text-inactive": {
+        "value": "{colour.gray.35}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "text-link": {
+        "value": "{colour.blue.7}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "text-link-visited": {
+        "value": "{colour.purple.2}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "text-hover": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "text-inverted": {
+        "value": "{colour.bw.white}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "text-disabled": {
+        "value": "{colour.gray.21}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "text-negative": {
+        "value": "{colour.red.10}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "text-placeholder": {
+        "value": "{colour.gray.27}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "text-muted-disabled": {
+        "value": "{colour.gray.16}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "text-placeholder-disabled": {
+        "value": "{colour.gray.15}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "text-positiv": {
+        "value": "{colour.green.10}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      }
+    },
+    "border": {
+      "border-tinted-negativ": {
+        "value": "{colour.red.10}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-tinted-information": {
+        "value": "{colour.blue.9}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-tinted-positive": {
+        "value": "{colour.green.10}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-tinted-caution": {
+        "value": "{colour.orange.10}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-default": {
+        "value": "{colour.gray.17}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-high-contrast": {
+        "value": "{colour.gray.27}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-low-contrast": {
+        "value": "{colour.gray.10}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-tinted-neutral": {
+        "value": "{colour.gray.27}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-button-default": {
+        "value": "{colour.gray.39}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-button-disabled": {
+        "value": "{colour.gray.20}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-input": {
+        "value": "{colour.bw.black}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-caution": {
+        "value": "{colour.yellow.1}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-positive": {
+        "value": "{colour.green.10}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-information": {
+        "value": "{colour.blue.9}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-negativ": {
+        "value": "{colour.red.10}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-input-disabled": {
+        "value": "{colour.gray.21}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-search": {
+        "value": "{colour.gray.27}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-search-disabled": {
+        "value": "{colour.gray.21}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-table-hr": {
+        "value": "{colour.gray.14}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "border-switch-slide": {
+        "value": "{colour.gray.30}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      }
+    },
+    "background": {
+      "background-default": {
+        "value": "{colour.bw.white}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "background-alt": {
+        "value": "{colour.gray.2}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "background-code": {
+        "value": "{colour.gray.2}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "background-code-heading": {
+        "value": "{colour.gray.7}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "brand": {
+        "background-brand": {
+          "value": "{colour.brand.orange}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-button-brand": {
+          "value": "{colour.brand.orange}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-button-brand-disabled": {
+          "value": "{colour.orange.7}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-button-hovered": {
+          "value": "{colour.orange.11}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-button-brand-active": {
+          "value": "{colour.orange.12}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        }
+      },
+      "positiv": {
+        "background-tinted-positiv-default": {
+          "value": "{colour.green.4}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-tinted-positiv-hover": {
+          "value": "{colour.green.5}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-tinted-positiv-active": {
+          "value": "{colour.green.6}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-positiv": {
+          "value": "{colour.green.10}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-positiv-hover": {
+          "value": "{colour.green.15}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-positiv-disabled": {
+          "value": "{colour.green.7}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-positiv-active": {
+          "value": "{colour.green.16}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        }
+      },
+      "caution": {
+        "background-tinted-caution-default": {
+          "value": "{colour.orange.2}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-tinted-caution-hover": {
+          "value": "{colour.orange.3}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-tinted-caution-active": {
+          "value": "{colour.orange.6}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-caution": {
+          "value": "{colour.yellow.1}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        }
+      },
+      "negativ": {
+        "background-tinted-negativ-default": {
+          "value": "{colour.red.3}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-tinted-negativ-hover": {
+          "value": "{colour.red.4}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-tinted-negativ-active": {
+          "value": "{colour.red.6}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-negative": {
+          "value": "{colour.red.10}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-negative-hover": {
+          "value": "{colour.red.11}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-negative-disabled": {
+          "value": "{colour.red.7}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-negative-active": {
+          "value": "{colour.red.14}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        }
+      },
+      "information": {
+        "background-tinted-information-default": {
+          "value": "{colour.blue.1}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-tinted-information-hover": {
+          "value": "{colour.blue.2}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-tinted-information-active": {
+          "value": "{colour.blue.3}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-information": {
+          "value": "{colour.blue.9}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        }
+      },
+      "neutral": {
+        "background-tinted-neutral-default": {
+          "value": "{colour.gray.5}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-tinted-neutral-hover": {
+          "value": "{colour.gray.10}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-tinted-neutral-active": {
+          "value": "{colour.gray.12}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        }
+      },
+      "background-active": {
+        "value": "{colour.gray.7}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "background-hover": {
+        "value": "{colour.gray.5}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "background-overlay": {
+        "value": "{colour.gray.38}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "background-input": {
+        "value": "{colour.gray.3}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "background-paper": {
+        "value": "{colour.gray.4}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "background-label-validated": {
+        "value": "{colour.turquoise.2}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "icon": {
+        "background-status-in-progress": {
+          "value": "{colour.blue.10}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-status-queued": {
+          "value": "{colour.gray.26}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-external-link": {
+          "value": "{colour.blue.8}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-conflict-resolution": {
+          "value": "{colour.green.9}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-cve-high": {
+          "value": "{colour.red.9}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-cve-critical": {
+          "value": "{colour.red.12}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-loading-determinate": {
+          "value": "{colour.gray.13}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-cve-low": {
+          "value": "{colour.brown.1}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-cve-medium": {
+          "value": "{colour.orange.9}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        }
+      },
+      "paper": {
+        "background-paper-input": {
+          "value": "{colour.gray.8}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-paper-active": {
+          "value": "{colour.gray.11}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        },
+        "background-paper-hover": {
+          "value": "{colour.gray.9}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        }
+      },
+      "background-tooltip": {
+        "value": "{colour.gray.47}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "background-input-disabled": {
+        "value": "{colour.gray.1}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "background-input-hovered": {
+        "value": "{colour.gray.5}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "background-input-active": {
+        "value": "{colour.gray.7}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "background-checkbox": {
+        "value": "{colour.blue.7}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "background-radio": {
+        "value": "{colour.blue.7}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "background-switch-off": {
+        "value": "{colour.gray.14}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "background-switch-on": {
+        "value": "{colour.blue.7}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "logo": {
+        "background-logo-text": {
+          "value": "{colour.bw.black}",
+          "type": "color",
+          "parent": "Colour tokens/Light Theme",
+          "description": ""
+        }
+      }
+    },
+    "focus": {
+      "focus-default": {
+        "value": "{colour.blue.4}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "focus-positiv": {
+        "value": "{colour.green.20}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "focus-negativ": {
+        "value": "{colour.red.21}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      }
+    },
+    "accent": {
+      "accent": {
+        "value": "{colour.turquoise.1}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      },
+      "accent-background": {
+        "value": "{colour.gray.43}",
+        "type": "color",
+        "parent": "Colour tokens/Light Theme",
+        "description": ""
+      }
+    }
+  }
+}

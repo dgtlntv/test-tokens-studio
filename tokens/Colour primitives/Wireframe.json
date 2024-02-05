@@ -1,0 +1,806 @@
+{
+  "colour": {
+    "bw": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      }
+    },
+    "gray": {
+      "1": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "2": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "3": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "4": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "5": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "6": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "7": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "8": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "9": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "10": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "11": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "12": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "13": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "14": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "15": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "16": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "17": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "18": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "19": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "20": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "21": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "22": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "23": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "24": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "25": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "26": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "27": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "28": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "29": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "30": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "31": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "32": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "33": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "34": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "35": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "36": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "37": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "38": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "39": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "40": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "41": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "42": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "43": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "44": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "45": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "46": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "47": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      }
+    },
+    "red": {
+      "1": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "2": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "3": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "4": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "5": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "6": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "7": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "8": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "9": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "10": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "11": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "12": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "13": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "14": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "15": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "16": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "17": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "18": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "19": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "20": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "21": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      }
+    },
+    "yellow": {
+      "1": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      }
+    },
+    "green": {
+      "1": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "2": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "3": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "4": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "5": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "6": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "7": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "8": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "9": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "10": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "11": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "12": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "13": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "14": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "15": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "16": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "17": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "18": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "19": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "20": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "21 (not Vanilla)": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      }
+    },
+    "blue": {
+      "1": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "2": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "3": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "4": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "5": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "6": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "7": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "8": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "9": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "10": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "11": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "12": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "13": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "14 (not Vanilla)": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      }
+    },
+    "purple": {
+      "1": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "2": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "3 (not Vanilla)": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      }
+    },
+    "turquoise": {
+      "1": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "2": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      }
+    },
+    "orange": {
+      "1": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "2": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "3": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "4": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "5": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "6": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "7": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "8": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "9": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "10": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "11": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "12": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "13": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      }
+    },
+    "brand": {
+      "orange": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "aubergine": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      }
+    },
+    "brown": {
+      "1": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "2": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "3": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      },
+      "4": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "Colour primitives/Wireframe",
+        "description": ""
+      }
+    }
+  }
+}

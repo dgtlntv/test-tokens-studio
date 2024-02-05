@@ -1,5 +1,9 @@
 {
   "tokenSetOrder": [
-    "global"
+    "global",
+    "Colour primitives/Wireframe",
+    "Colour primitives/High fidelity",
+    "Colour tokens/Light Theme",
+    "Colour tokens/Dark Theme"
   ]
 }
